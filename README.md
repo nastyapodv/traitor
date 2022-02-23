@@ -2,6 +2,9 @@
 This is stroka 1
 This is stroka 2
 This is stroka 3
+This is stroka 4
+This is stroka 5
+This is stroka 6
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
 
 Traitor packages up a bunch of methods to exploit local misconfigurations and vulnerabilities (including most of [GTFOBins](https://gtfobins.github.io/)) in order to pop a root shell.
